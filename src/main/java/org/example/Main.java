@@ -18,7 +18,7 @@ public class Main {
     public static double division(int a, int b) {
         if (b == 0) {
             System.out.println("Sorry ! " +
-                    "division by Zero Not Possible");
+                    "division  by Zero Not Possible");
             return 0;
         }
         else {
