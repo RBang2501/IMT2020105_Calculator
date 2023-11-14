@@ -58,6 +58,7 @@ public class Main {
             else if (operation == 4) {
                 System.out.println(division(a, b));
             }
+
         }
     }
 }
